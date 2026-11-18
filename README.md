@@ -1,16 +1,7 @@
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  nasrou@dev:~$ neofetch --theme modern-dark                             ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="38%" valign="top" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+   <td width="32%" valign="top" align="center">
 
 ```
                                       ============                                               
@@ -50,7 +41,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=230&lines=Nasrou+Hamdani;Web+Developer;Shopify+Specialist;Meta+Ads+Expert" alt="Typing SVG" />
 
 </td>
-<td width="62%" valign="top">
+<td width="100%" valign="top">
 
 ```yaml
 nasrou@dev
